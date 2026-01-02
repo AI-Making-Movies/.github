@@ -45,6 +45,7 @@ AI-assisted movie making is currently:
 - aesthetically inconsistent
 - ethically unresolved
 - creatively uneven
+- copyright mine-field
 
 That is precisely why it is worth documenting honestly.
 
@@ -60,7 +61,7 @@ This organisation exists to **observe the process while it is still unstable**, 
 - Silence does not mean abandonment
 
 If something resonates, engage.
-If not, pass quietly.
+If not, pass quietly on by.
 
 ---
 
@@ -86,4 +87,6 @@ Links will appear when relevant.
 ---
 
 This organisation is intentionally small, slow, and incomplete.
-That is part of the work.
+That is part of the work. 
+
+- Mark DK Berry
