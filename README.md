@@ -87,6 +87,4 @@ Links will appear when relevant.
 ---
 
 This organisation is intentionally small, slow, and incomplete.
-That is part of the work. 
-
-- Mark DK Berry
+That is part of the work.
