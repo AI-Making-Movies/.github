@@ -17,7 +17,7 @@ This work sits somewhere between:
 - writing
 - storyboarding
 - visual design
-- music
+- music/sound design
 - experimentation
 
 It does not claim industry equivalence.
